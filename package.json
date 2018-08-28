@@ -1,6 +1,6 @@
 {
   "name": "nuxt-delete-source-maps",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Delete source maps after build",
   "main": "index.js",
   "license": "MIT",
